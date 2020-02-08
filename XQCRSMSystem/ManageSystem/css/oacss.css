@@ -1,0 +1,120 @@
+ 
+a:link {   
+ text-decoration: none;   
+}   
+a:visited {   
+ text-decoration: none;   
+}   
+a:hover {   
+text-decoration: underline;   
+}   
+a:active {   
+ text-decoration: none;   
+}   
+
+.Wdate{
+	border-right: #aabcee 1px solid;
+	border-top: #aabcee 1px solid;
+	border-left: #aabcee 1px solid;
+	border-bottom: #aabcee 1px solid;
+	background-color: white;
+	background:#fff url(datePicker.gif) no-repeat right;
+	font-family:"Î¢ÈíÑÅºÚ";
+	font-size: 14px;
+
+}
+.title1 {
+	 font-size:18px; font-family:"Î¢ÈíÑÅºÚ"; letter-spacing: 1pt;
+	line-height:30px;
+	font-weight:bold;
+	background-image:url(/comoa/styles/images/bg.gif);
+	 text-align:center;
+	 height:35px;
+	 background-color:#E3EFFF
+	 
+}
+
+.title2 {
+	font-size:16px; font-family:"Î¢ÈíÑÅºÚ"; letter-spacing: 1pt;
+	line-height:20px;
+	 background-color:#E3EFFF
+}
+.table { width:100%;  border:1px solid #aecbd4;}
+.table td {border:1px solid #aecbd4; padding: 2px;}
+.tdName {background-color: #f6fbff; text-align: right;color:#000000; font-size:12px; white-space:nowrap}
+.button{width:50px;height:25px; BORDER-RIGHT: #7b9ebd 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #7b9ebd 1px solid; PADDING-LEFT: 2px; FONT-SIZE: 12px; FILTER: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=#ffffff, EndColorStr=#cecfde); BORDER-LEFT: #7b9ebd 1px solid; CURSOR: hand; COLOR: black; PADDING-TOP: 2px; BORDER-BOTTOM: #7b9ebd 1px solid}
+.tbox
+{
+	border: 1px solid #aabcee;
+    background-color: white;
+	    font-family:"Î¢ÈíÑÅºÚ";
+	    font-size: 14px;
+    margin-left: 0px;
+}
+.sp1
+{font-size: 14px;
+	}
+body {
+	background-color: #FFFFFF;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	font-size:12px; font-family:"Î¢ÈíÑÅºÚ";
+}
+
+
+	
+.uploadlink{
+	  color:#003399;
+	  text-decoration:underline;
+	font-size: 9pt;
+}
+  
+  
+A.uploadlink:link{ font-size:9pt;color:#003399}
+
+A.uploadlink:visited{ font-size:9pt;color:#003399}
+
+A.uploadlink:hover{ font-size:9pt;color:#C51C00}
+.tbox_underline
+{
+	border-top: 0px;
+	border-left: 0px ;
+	border-right: 0px;
+	border-bottom: 1px #aabcee solid;
+	background-color: white;
+	font-family: Î¢ÈíÑÅºÚ;
+	font-size: 14px;
+}
+a:link
+{
+	font-size: 12px;
+	color: #006699;
+}
+a:visited
+{
+	color: #0055EE;
+	font-size: 12px;
+}
+a:hover
+{
+	font-size: 12px;
+	color: #FF0000;
+}
+a:active
+{
+	font-size: 12px;
+	color: #006699;
+}
+
+.sccolor
+{
+    color:red;
+    }
+
+.customer{border-collapse:collapse}
+.tdbg {background-color: #f6fbff; text-align: right;color:#000000; font-size:12px; white-space:nowrap}
+.customerbutton{width:80px;height:25px; BORDER-RIGHT: #7b9ebd 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #7b9ebd 1px solid; PADDING-LEFT: 2px; FONT-SIZE: 12px; FILTER: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=#ffffff, EndColorStr=#cecfde); BORDER-LEFT: #7b9ebd 1px solid; CURSOR: hand; COLOR: black; PADDING-TOP: 2px; BORDER-BOTTOM: #7b9ebd 1px solid}
+
+

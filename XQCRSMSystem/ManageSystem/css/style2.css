@@ -1,0 +1,23 @@
+.title{
+	color: #333;
+	padding: 20px 0;
+	border-bottom: 1px dashed #ddd;
+	margin-bottom: 20px;
+}
+.layui-form-label{
+	width: 100px;
+}
+.layui-input-block {
+    margin-left: 136px;
+    min-height: 36px;
+}
+select{
+	width: 100%;
+	height: 38px;
+	line-height: 1.3;
+	line-height: 38px\9;
+	border-width: 1px;
+	border-style: solid;
+	background-color: #fff;
+	border-radius: 2px;
+}

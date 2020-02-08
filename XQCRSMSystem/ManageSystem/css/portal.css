@@ -1,0 +1,127 @@
+﻿*{ scrollbar-face-color:#E6F2FD; scrollbar-highlight-color:#ffffff; scrollbar-shadow-color:#D6E4EF; scrollbar-3dlight-color:#F1F9FF; scrollbar-arrow-color:#006699;  scrollbar-track-color:#F1F9FF;  scrollbar-darkshadow-color:#F1F9FF; }
+body{ margin:0px; color:#414141; font-size:12px; }
+form,ul,li,dl,dt,dd{ margin:0px; list-style-type:none; padding:0px; }
+table { empty-cells: show; border-collapse: collapse; }
+img{ border:0px; vertical-align:middle; }
+a{ color:#005eac; text-decoration:none;}
+a:visited,a:active{ color:#005eac; }
+a:hover{ color:#ff5500; }
+.layout{ background:url(../Images/portalTop/head_bg_line.gif) repeat-x left top #e5edef; }
+
+/* 顶部 */
+.logo{ display:block; width:233px; height:50px; background:url(../Images/portalTop/head_logo.png) no-repeat; text-indent:-9999px;padding-top:5px }
+.header{ background:url(../Images/portalTop/head_bg.gif) repeat-x left bottom; color:#E8E8E8; font-family:Verdana, Geneva, sans-serif; }
+.header a{ color:#E8E8E8; text-decoration:none; }
+.header a:hover{ color:#FF0; text-decoration:none; }
+.header .header_box{ height:65px}
+.header .header_box .header_right{float:right; margin:5px 10px auto auto; text-align:right; line-height:20px; }
+.header .header_box .header_left{float:left; margin-top:5px;}
+.header .header_box .header_right span{ padding-left:18px; background:url(../Images/portalTop/memeber.gif) left center no-repeat; }
+.header .header_box .header_right span b{ font-weight:normal; color:#FF0; }
+.footer{ text-align:left; background:url(../Images/portalTop/foot_bg.gif) repeat-x #EBF5FC; }
+.footer .copyright{ height:24px;line-height:24px;padding:0px 10px;font-size:12px;color:#2C89AD; text-align:center }
+
+/* 左边管理菜单 */
+.center{
+	border-left:1px #88b2c5 solid;
+	border-right:1px #88b2c5 solid;
+	border-top:1px #65808f solid;
+}
+.center_left{
+	background:#FFF url(../Images/portalLeft/center_left_li.jpg) left bottom no-repeat;
+	border-right:1px #74abc5 solid;
+	padding-bottom:14px;
+	width:180px;
+}
+.center_right{
+	width:826px;
+	background:#fff url(../Images/portalLeft/center_right_foot.jpg) right bottom no-repeat;
+	padding-bottom:9px;
+}
+.center_left_tab_1{
+	background:url(../Images/portalLeft/tab_bg_1.jpg) left top no-repeat;
+	height:35px;
+	margin-bottom:10px;	
+}
+.center_left_tab_2{
+	background:url(../Images/portalLeft/tab_bg_2.jpg) left top no-repeat;
+	height:30px;
+	border-right:1px #74abc5 solid;
+}
+.center_left_tab_3{
+	background:url(../Images/portalLeft/tab_bg_3.jpg) left top no-repeat;
+	height:32px;
+	border-right:1px #74abc5 solid;
+}
+.center_left_tab_hover{
+	background:url(../Images/portalLeft/tab_hover.jpg) left top no-repeat;
+	height:28px;
+}
+.center_left_list{
+	background:url(../Images/portalLeft/li.gif) 28px center no-repeat;
+	height:28px;
+}
+.center_left_tab_hover div{
+	padding-left:50px;
+	padding-top:4px;
+	line-height:24px;
+	color:#333333;
+	font-weight:bold;
+}
+.center_left_list div{
+	padding-left:50px;
+	padding-top:4px;
+	line-height:24px;
+	color:#333333;
+}
+.center_left_tab_1 div{
+	padding-left:40px;
+	padding-top:11px;
+	color:#006699;
+	font-weight:bold;
+	font-size:14px;
+}
+.center_left_tab_2 div{
+	padding-left:40px;
+	margin-top:11px;
+	color:#003366;
+}
+.center_left_tab_3 div{
+	padding-left:40px;
+	margin-top:12px;
+	color:#003366;
+}
+.center_left_foot{
+	height:19px;
+	background:url(../Images/portalLeft/center_left_foot.jpg) no-repeat;
+	border-right:1px #74abc5 solid;
+}
+.tab-icon-home
+{
+    cursor:pointer;
+    padding-left:22px; 
+    background:url(../Images/portalIcon/1_open.png) no-repeat left center; 
+}
+.tab-icon-globalLayout
+{
+    cursor:pointer;
+    padding-left:22px; 
+    background:url(../Images/portalIcon/1_close.png) no-repeat left center; 
+}
+.tab-icon-modifyPwd
+{
+    cursor:pointer;
+    padding-left:22px; 
+    background:url(../Images/portalIcon/9.png) no-repeat left center; 
+}
+.tab-icon-resetLayout
+{
+    cursor:pointer;
+    padding-left:22px; 
+    background:url(../Images/portalIcon/refresh.png) no-repeat left center; 
+}
+a{
+	text-decoration:none;
+	color:#FFFFFF;
+	cursor:hand;
+}
